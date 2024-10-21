@@ -31,6 +31,8 @@ class Selection {
 # output :
 
 ![image](https://github.com/user-attachments/assets/1c90139d-1caf-45e4-b875-0e54deef049e)
+![image](https://github.com/user-attachments/assets/d651be97-cf71-47ec-a11f-ac8d10ca329b)
+
 
 # variable  table 
 ![image](https://github.com/user-attachments/assets/651c259a-7013-4616-a205-5d91e21dd01f)

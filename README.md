@@ -39,6 +39,7 @@ class Selection {
 ![image](https://github.com/user-attachments/assets/651c259a-7013-4616-a205-5d91e21dd01f)
 
 
-# 2. ![image](https://github.com/user-attachments/assets/0e71fd01-fcfd-4057-b42c-39eececf39c7)
+# Q 2.
+# ![image](https://github.com/user-attachments/assets/0e71fd01-fcfd-4057-b42c-39eececf39c7)
 
 

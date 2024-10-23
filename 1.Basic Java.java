@@ -1,55 +1,85 @@
-name = "Saurav"
-Name = "Ram"
-print(name)
-print(Name)
-Saurav
-Ram
-Indentation
-## Uses indentation to define block of code 
-age = 32
-if age > 30:
-    print(age)
-# Below print is out side of if block    
-print(age)
-32
-32
-print statment
-print('Hello world')
-Hello world 
-Line Continuation
-# whit help of backsalsh(\) we can continue to next line
-total=102+2+3+4+5+89+\
-78+56
-print(total)
-339
-Multiple Statements on a single line
-# Example 
-x = 5
-y = 4 
-z = 5+4
-print(z)
+Variable Declaration and Initialization
+In Java, you need to specify the data type when declaring a variable.
 
-# 0r 
-x= 5; y=4 ; z = x+y; print(z)
-9
-9
-Variable assignment
-# in python we do not need to define data type 
-number = 5
-age = 45 
-name = 'Saurav'
-print(number, age , name)
-5 45 Saurav
-type(age)
-int
-type(name)
-str
-type(number)
-int
+String name = "Saurav";
+String Name = "Ram";
+System.out.println(name);
+System.out.println(Name);
+
+Java uses braces {} to define blocks of code instead of indentation.
+    int age = 32;
+if (age > 30) {
+    System.out.println(age);
+} // Below print is outside of the if block
+System.out.println(age);
+
+
+
+Print Statement
+You use System.out.println in Java to print output.
+System.out.println("Hello world");
+
+
+
+Variable Assignment
+In Java, you also need to define data types.
+int number = 5;
+int age = 45; 
+String name = "Saurav";
+System.out.println(number + " " + age + " " + name);
+
+
 Type Inference
-var = 10 
-print(var)
-var = "Saurav"
-print(var)
-10
-Saurav
+var var1 = 10; // Using var for type inference
+System.out.println(var1);
+
+var1 = "Saurav"; // This will cause an error since var1 cannot change type
+System.out.println(var1);
+
+
+Example Java Code
+public class Main {
+    public static void main(String[] args) {
+        // Variable Declaration
+        String name = "Saurav";
+        String Name = "Ram";
+        System.out.println(name);
+        System.out.println(Name);
+
+        // Indentation
+        int age = 32;
+        if (age > 30) {
+            System.out.println(age);
+        }
+        System.out.println(age);
+
+        // Print Statement
+        System.out.println("Hello world");
+
+        // Line Continuation
+        int total = 102 + 2 + 3 + 4 + 5 + 89 +
+                    78 + 56;
+        System.out.println(total);
+
+        // Multiple Statements on a Single Line
+        int x = 5; 
+        int y = 4; 
+        int z = x + y; 
+        System.out.println(z);
+        
+        // Variable Assignment
+        int number = 5;
+        age = 45; 
+        name = "Saurav";
+        System.out.println(number + " " + age + " " + name);
+
+        // Type Inference (Java 10 and above)
+        var var1 = 10;
+        System.out.println(var1);
+        
+        // Uncommenting the next line will cause an error since var1 can't change types
+        // var1 = "Saurav";
+        // System.out.println(var1);
+    }
+}
+

@@ -70,5 +70,5 @@ public class Pizza
 }
 
 # Output
-![image](https://github.com/user-attachments/assets/e97f66d0-67d8-4f64-9a19-1764a5fabafd)
+![image](https://github.com/user-attachments/assets/01d6625a-691f-4e23-8c88-43a650b9cdb3)
 

@@ -19,3 +19,11 @@ below answer is for smallest try for largest.
 ![image](https://github.com/user-attachments/assets/9b8b99e5-5dfd-46ce-b6a6-c9b4b5267048)
 
 
+# 5. Q> Wap to add two 2d array and display it's sum as new array 
+![image](https://github.com/user-attachments/assets/7d5050b9-8a60-4c3d-810c-ba271c9c50d6)
+
+# 6. Q > Wap to subtract two 2d array and display it's sum as new array 
+
+# 7. Q> Wap to multiply  two 2d array and display it's sum as new array 
+
+# 8. Q> Wap to divide  two 2d array and display it's sum as new array 

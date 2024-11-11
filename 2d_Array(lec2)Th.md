@@ -111,8 +111,23 @@ Which element is `num[9]` of the array `num`?
 
 
 public class MinMaxSum
+
+
+
+
+
+
+
 {
-    public static void main(String args[]) {
+
+
+
+
+    public static void main(String args[])
+    
+    
+    {
+    
         int arr[] = {2, 5, 4, 1, 3};
         
         int max = arr[0];
@@ -135,11 +150,14 @@ public class MinMaxSum
     }
 }
 
-## Q.2  ![image](https://github.com/user-attachments/assets/d956a6c3-a472-4014-bc98-57c029af8f44)
+## Q.2 
+![image](https://github.com/user-attachments/assets/d956a6c3-a472-4014-bc98-57c029af8f44)
 
-## Q.3 ![image](https://github.com/user-attachments/assets/8fe1216c-512b-4e8d-b972-be7a047a8d33)
+## Q.3
+![image](https://github.com/user-attachments/assets/8fe1216c-512b-4e8d-b972-be7a047a8d33)
 
-## Q.4 ![image](https://github.com/user-attachments/assets/c9d44b35-d7ea-4892-8940-1fee6d66a687)
+## Q.4
+![image](https://github.com/user-attachments/assets/c9d44b35-d7ea-4892-8940-1fee6d66a687)
 
 ## Q.5 Explain the technique of Selection Sort with an example.
 # Selection Sort Algorithm
